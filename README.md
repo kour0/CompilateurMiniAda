@@ -85,12 +85,16 @@ Un dossier `AstTest` est également disponible avec les classes suivantes :
 
 Ces tests utilisent des fichiers `.canAda` en entrée qui se trouvent dans le dossier `src/main/resources/tests`.
 
-## Programme de démonstration
+## Programmes de démonstration
 
-Un programme de démonstration est disponible dans le dossier `src/main/resources/demo` :
+Les programmes de démonstration sont disponibles dans le dossier `src/main/resources/demo` :
 
 - `multiplicationTable.canAda` : programme affichant la table de multiplication de 1 à 10.
 - `sumFirstIntegers.canAda` : programme calculant la somme des `n` premiers entiers.
 - `factorial.canAda` : programme récursif calculant le factoriel d'un nombre.
 - `tictactoe.canAda` : programme simulant un jeu de morpion.
 - `combatSimulator.canAda` : programme simulant un combat entre deux personnages.
+
+## Licence
+
+CompilerMiniAda est un logiciel open source sous licence MIT. Voir le fichier LICENSE pour plus de détails.
