@@ -1,2 +1,2 @@
-rootProject.name = "compilation-marcel16u"
+rootProject.name = "compilerminiada"
 
